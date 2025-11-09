@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall  -fdiagnostics-color=always -fvisibility-inlines-hidden -g -shared -Wl,-soname,libSimplePass.so -o libSimplePass.so CMakeFiles/SimplePass.dir/SimplePass.cpp.o   -L/usr/lib/llvm-21/lib 
